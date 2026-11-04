@@ -1,0 +1,11 @@
+    • equipos;
+
+    • sistemas operativos;
+
+    • red;
+
+    • direccionamiento IP;
+
+    • dispositivos;
+    
+    • seguridad.
